@@ -3,12 +3,31 @@
     <title>test</title>
     <link href="https://cammy1982.github.io/JUSTMYBLOG/feed.xml" rel="self" />
     <link href="https://cammy1982.github.io/JUSTMYBLOG" />
-    <updated>2017-09-27T14:37:35+02:00</updated>
+    <updated>2017-09-27T14:43:40+02:00</updated>
     <author>
         <name>ca</name>
     </author>
     <id>https://cammy1982.github.io/JUSTMYBLOG</id>
 
+    <entry>
+        <title>test </title>
+        <author>
+            <name>ca</name>
+        </author>
+        <link href="https://cammy1982.github.io/JUSTMYBLOG/test.html"/>
+        <id>https://cammy1982.github.io/JUSTMYBLOG/test.html</id>
+
+        <updated>2017-09-27T14:43:34+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>lskf mslfml sdlf k</p>
+<p>ds dsf sdffsdf sfs fsf</p>
+<p>s fsdf sf sdkfkfkdsj skdffksj kkjf ksnfkj ksnfkfk kjnksf kjfkj jksf</p>
+<p>&nbsp;fds s&nbsp;<img src="https://cammy1982.github.io/JUSTMYBLOG/media/posts/2/stocksnap_1bsg5rxttu.jpg" alt="" width="5472" height="3648"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome </title>
         <author>
@@ -17,12 +36,14 @@
         <link href="https://cammy1982.github.io/JUSTMYBLOG/welcome.html"/>
         <id>https://cammy1982.github.io/JUSTMYBLOG/welcome.html</id>
 
-        <updated>2017-09-27T14:30:37+02:00</updated>
+        <updated>2017-09-27T14:42:10+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://cammy1982.github.io/JUSTMYBLOG/media/posts/1/stocksnap_s1mtghebu4.jpg" alt="" />
                 <p>this is just a little test, to see what this website builder is all about. I'm really curious to see what it really does, and what its capabilities are.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
             ]]>
         </content>
     </entry>

@@ -11,10 +11,23 @@
     },
     "items": [
         {
+            "id": "https://cammy1982.github.io/JUSTMYBLOG/test.html",
+            "url": "https://cammy1982.github.io/JUSTMYBLOG/test.html",
+            "title": "test ",
+            "content_html": "<p>lskf mslfml sdlf k</p>\n<p>ds dsf sdffsdf sfs fsf</p>\n<p>s fsdf sf sdkfkfkdsj skdffksj kkjf ksnfkj ksnfkfk kjnksf kjfkj jksf</p>\n<p>&nbsp;fds s&nbsp;<img src=\"https://cammy1982.github.io/JUSTMYBLOG/media/posts/2/stocksnap_1bsg5rxttu.jpg\" alt=\"\" width=\"5472\" height=\"3648\"></p>",
+            "author": {
+                "name": "ca"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-27T14:43:16+02:00",
+            "date_modified": "2017-09-27T14:43:34+02:00"
+        },
+        {
             "id": "https://cammy1982.github.io/JUSTMYBLOG/welcome.html",
             "url": "https://cammy1982.github.io/JUSTMYBLOG/welcome.html",
             "title": "Welcome ",
-            "content_html": "<p>this is just a little test, to see what this website builder is all about. I'm really curious to see what it really does, and what its capabilities are.&nbsp;</p>",
+            "content_html": "<p>this is just a little test, to see what this website builder is all about. I'm really curious to see what it really does, and what its capabilities are.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
             "image": "https://cammy1982.github.io/JUSTMYBLOG/media/posts/1/stocksnap_s1mtghebu4.jpg",
             "author": {
                 "name": "ca"
@@ -22,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2017-09-27T14:18:02+02:00",
-            "date_modified": "2017-09-27T14:30:37+02:00"
+            "date_modified": "2017-09-27T14:42:10+02:00"
         }
     ]
 }
