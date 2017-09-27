@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test</title>
+    <link href="https://cammy1982.github.io/JUSTMYBLOG/feed.xml" rel="self" />
+    <link href="https://cammy1982.github.io/JUSTMYBLOG" />
+    <updated>2017-09-27T14:29:57+02:00</updated>
+    <author>
+        <name>ca</name>
+    </author>
+    <id>https://cammy1982.github.io/JUSTMYBLOG</id>
+
+    <entry>
+        <title>Welcome </title>
+        <author>
+            <name>ca</name>
+        </author>
+        <link href="https://cammy1982.github.io/JUSTMYBLOG/welcome.html"/>
+        <id>https://cammy1982.github.io/JUSTMYBLOG/welcome.html</id>
+
+        <updated>2017-09-27T14:18:02+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cammy1982.github.io/JUSTMYBLOG/media/posts/1/stocksnap_s1mtghebu4.jpg" alt="" />
+                <p>this is just a little test, to see what this website builder is all about. I'm really curious to see what it really does, and what its capabilities are.&nbsp;</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

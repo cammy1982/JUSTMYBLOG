@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://cammy1982.github.io/JUSTMYBLOG",
+    "feed_url": "https://cammy1982.github.io/JUSTMYBLOG/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ca"
+    },
+    "items": [
+        {
+            "id": "https://cammy1982.github.io/JUSTMYBLOG/welcome.html",
+            "url": "https://cammy1982.github.io/JUSTMYBLOG/welcome.html",
+            "title": "Welcome ",
+            "content_html": "<p>this is just a little test, to see what this website builder is all about. I'm really curious to see what it really does, and what its capabilities are.&nbsp;</p>",
+            "image": "https://cammy1982.github.io/JUSTMYBLOG/media/posts/1/stocksnap_s1mtghebu4.jpg",
+            "author": {
+                "name": "ca"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-27T14:18:02+02:00",
+            "date_modified": "2017-09-27T14:18:02+02:00"
+        }
+    ]
+}
